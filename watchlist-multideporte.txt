@@ -1,0 +1,61 @@
+# Watchlist multideporte — una linea por jugador, # = comentario
+# Los rookies NBA del set salen automaticamente de checklist-rc-2025-26-comc.md
+
+# ---- NBA veteranos ----
+Stephen Curry
+LeBron James
+Victor Wembanyama
+
+# ---- NFL ----
+Patrick Mahomes
+CJ Stroud
+Jayden Daniels
+Caleb Williams
+Travis Hunter
+Ashton Jeanty
+Shedeur Sanders
+Cam Ward
+Bijan Robinson
+Justin Jefferson
+Bo Nix
+Drake Maye
+JJ McCarthy
+Michael Penix
+Marvin Harrison Jr.
+Malik Nabers
+Brock Bowers
+
+# ---- MLB estrellas ----
+Shohei Ohtani
+Yordan Alvarez
+Bobby Witt Jr.
+Junior Caminero
+Pete Crow-Armstrong
+Juan Soto
+Mike Trout
+
+# ---- MLB rookies 2026 ----
+Paul Skenes
+Jackson Merrill
+Wyatt Langford
+Jackson Holliday
+James Wood
+Dylan Crews
+Kevin McGonigle
+Munetaka Murakami
+Parker Messick
+Kazuma Okamoto
+Payton Tolle
+JJ Wetherholt
+Sal Stewart
+Nolan McLean
+TJ Rumfield
+Foster Griffin
+
+# ---- FUTBOL ----
+Lionel Messi
+Lamine Yamal
+Kylian Mbappe
+Jude Bellingham
+Erling Haaland
+Cole Palmer

@@ -1,0 +1,498 @@
+# Historial completo de ventas — Flagg Chrome TC25-251.1-B (31038638)
+# Fuente: Pin desde su PC (10/08/2026 ~08:11 UTC)
+# Formato crudo: fecha / hora / precio / tipo
+
+Aug 9, 2026 10:18 AM $23.50 Fixed Price
+Aug 9, 2026 9:35 AM $23.90 Offer
+Aug 9, 2026 9:31 AM $21.88 Offer
+Aug 9, 2026 6:47 AM $20.00 Offer
+Aug 9, 2026 4:34 AM $18.00 Offer
+Aug 8, 2026 5:25 AM $18.50 On Sale
+Aug 7, 2026 1:24 PM $17.50 Offer
+Aug 7, 2026 4:52 AM PSA 9 MINT $56.00 Fixed Price
+Aug 6, 2026 8:36 PM $16.60 Offer
+Aug 6, 2026 11:37 AM $22.50 Offer
+Aug 5, 2026 2:43 PM $24.09 Fixed Price
+Aug 5, 2026 2:43 PM $23.98 On Sale
+Aug 5, 2026 10:03 AM $21.00 2 Item Offer
+Aug 5, 2026 10:03 AM $21.00 2 Item Offer
+Aug 5, 2026 6:01 AM $23.00 Offer
+Aug 5, 2026 5:49 AM $20.26 On Sale
+Aug 5, 2026 5:43 AM $12.50 Fixed Price
+Jul 29, 2026 11:13 PM $15.51 2 Item Offer
+Jul 29, 2026 11:13 PM $15.51 2 Item Offer
+Jul 29, 2026 6:10 PM PSA 10 GEM MT $285.00 Fixed Price
+Jul 29, 2026 6:07 PM $19.50 On Sale
+Jul 29, 2026 6:03 PM PSA 10 GEM MT $282.00 Fixed Price
+Jul 29, 2026 6:30 AM $19.50 Offer
+Jul 28, 2026 6:33 PM PSA 10 GEM MT $277.00 Fixed Price
+Jul 28, 2026 6:16 PM PSA 10 GEM MT $295.77 Fixed Price
+Jul 28, 2026 1:00 PM $13.50 Offer
+Jul 28, 2026 6:02 AM $25.00 Offer
+Jul 27, 2026 8:12 PM PSA 9 MINT $55.00 Offer
+Jul 27, 2026 7:35 PM PSA 9 MINT $55.00 Offer
+Jul 27, 2026 7:33 PM PSA 8.5 NM-MT+ $32.00 On Sale
+Jul 27, 2026 7:36 AM $23.45 Fixed Price
+Jul 26, 2026 3:46 PM $22.50 Fixed Price
+Jul 26, 2026 3:46 PM $22.50 Fixed Price
+Jul 24, 2026 7:05 PM PSA 10 GEM MT $300.00 Fixed Price
+Jul 23, 2026 3:24 PM $19.50 On Sale
+Jul 23, 2026 3:24 PM $22.50 Offer
+Jul 23, 2026 1:48 PM $14.80 On Sale
+Jul 22, 2026 11:38 PM $22.99 Fixed Price
+Jul 22, 2026 9:46 PM $20.36 Fixed Price
+Jul 22, 2026 12:04 PM $19.00 Offer
+Jul 22, 2026 11:05 AM $18.00 Offer
+Jul 22, 2026 9:30 AM $17.75 Offer
+Jul 22, 2026 2:58 AM $16.50 Offer
+Jul 20, 2026 7:17 PM PSA 9 MINT $42.00 Fixed Price
+Jul 20, 2026 7:17 PM PSA 9 MINT $42.00 Fixed Price
+Jul 20, 2026 7:17 PM PSA 9 MINT $42.00 Fixed Price
+Jul 20, 2026 7:02 PM PSA 10 GEM MT $280.75 Fixed Price
+Jul 16, 2026 1:12 PM $16.50 Offer
+Jul 14, 2026 8:35 PM $20.50 Fixed Price
+Jul 14, 2026 8:32 PM $24.98 Fixed Price
+Jul 12, 2026 5:18 PM PSA 9 MINT $40.00 Fixed Price
+Jul 12, 2026 5:18 PM PSA 9 MINT $40.00 Fixed Price
+Jul 11, 2026 8:27 PM PSA 9 MINT $35.00 Fixed Price
+Jul 10, 2026 1:58 PM $18.99 Fixed Price
+Jul 10, 2026 1:58 PM $18.99 Fixed Price
+Jul 10, 2026 1:58 PM $20.50 Fixed Price
+Jul 10, 2026 1:58 PM $20.50 Fixed Price
+Jul 10, 2026 1:58 PM $18.99 Fixed Price
+Jul 10, 2026 1:58 PM $18.99 Fixed Price
+Jul 10, 2026 1:58 PM $24.48 Fixed Price
+Jul 10, 2026 1:58 PM $18.50 Fixed Price
+Jul 10, 2026 12:28 PM PSA 7 NM $15.50 Fixed Price
+Jul 10, 2026 12:18 PM PSA 6 EX-MT $15.50 Fixed Price
+Jul 10, 2026 7:35 AM $23.50 Fixed Price
+Jul 10, 2026 1:33 AM $16.25 Offer
+Jul 9, 2026 5:03 PM PSA 9 MINT $46.75 Offer
+Jul 8, 2026 10:10 PM PSA 9 MINT $33.00 Fixed Price
+Jul 6, 2026 2:28 PM $15.50 Offer
+Jul 4, 2026 6:51 PM $15.38 Fixed Price
+Jul 2, 2026 2:40 PM $19.25 On Sale
+Jul 2, 2026 2:38 PM $18.50 Fixed Price
+Jul 2, 2026 2:20 AM $13.61 On Sale
+Jul 2, 2026 2:20 AM $13.61 On Sale
+Jun 30, 2026 8:20 AM $23.00 Fixed Price
+Jun 28, 2026 6:51 PM $17.00 Auction
+Jun 25, 2026 1:56 PM PSA 8 NM-MT $33.75 Fixed Price
+Jun 22, 2026 4:22 PM PSA 9 MINT $46.82 On Sale
+Jun 22, 2026 4:21 PM PSA 9 MINT $55.00 Fixed Price
+Jun 22, 2026 4:21 PM PSA 9 MINT $61.00 Fixed Price
+Jun 22, 2026 4:21 PM PSA 9 MINT $71.00 Fixed Price
+Jun 22, 2026 4:20 PM PSA 9 MINT $71.75 Fixed Price
+Jun 22, 2026 4:20 PM PSA 9 MINT $71.75 Fixed Price
+Jun 22, 2026 4:20 PM PSA 9 MINT $72.00 Fixed Price
+Jun 22, 2026 4:19 PM PSA 9 MINT $78.00 Fixed Price
+Jun 22, 2026 4:19 PM PSA 9 MINT $81.00 Fixed Price
+Jun 22, 2026 4:19 PM PSA 9 MINT $101.75 Fixed Price
+Jun 22, 2026 12:15 AM $21.79 Fixed Price
+Jun 21, 2026 6:38 PM PSA 8 NM-MT $18.50 Fixed Price
+Jun 21, 2026 8:16 AM PSA 9 MINT $52.00 Fixed Price
+Jun 20, 2026 1:18 PM $22.60 On Sale
+Jun 19, 2026 6:14 PM PSA 10 GEM MT $265.00 Fixed Price
+Jun 15, 2026 4:30 PM $18.50 On Sale
+Jun 15, 2026 9:09 AM $14.50 On Sale
+Jun 13, 2026 10:13 PM $18.12 Auction
+Jun 12, 2026 6:11 PM $15.00 Fixed Price
+Jun 12, 2026 7:39 AM $23.00 Offer
+Jun 12, 2026 7:39 AM $23.00 Offer
+Jun 12, 2026 7:28 AM $28.00 Offer
+Jun 12, 2026 7:24 AM $22.00 Offer
+Jun 12, 2026 7:21 AM $23.50 Offer
+Jun 12, 2026 5:36 AM PSA 9 MINT $51.99 Fixed Price
+Jun 12, 2026 5:36 AM PSA 9 MINT $51.00 Fixed Price
+Jun 11, 2026 8:03 PM EX to NM $23.28 Auction
+Jun 11, 2026 3:21 PM $21.00 Offer
+Jun 11, 2026 8:20 AM $20.50 On Sale
+Jun 11, 2026 7:03 AM $21.00 Offer
+Jun 11, 2026 6:10 AM $23.00 Offer
+Jun 11, 2026 6:03 AM $21.00 Offer
+Jun 11, 2026 6:01 AM $25.50 Fixed Price
+Jun 11, 2026 6:01 AM $21.25 Fixed Price
+Jun 11, 2026 6:01 AM $20.50 Fixed Price
+Jun 11, 2026 6:01 AM $20.45 Fixed Price
+Jun 11, 2026 6:01 AM $17.89 Fixed Price
+Jun 11, 2026 6:01 AM $19.95 Fixed Price
+Jun 11, 2026 6:01 AM $17.60 On Sale
+Jun 11, 2026 6:01 AM $19.49 Fixed Price
+Jun 11, 2026 6:00 AM $19.50 Fixed Price
+Jun 11, 2026 6:00 AM $17.95 Fixed Price
+Jun 11, 2026 6:00 AM $25.00 Fixed Price
+Jun 11, 2026 5:59 AM $20.50 Fixed Price
+Jun 11, 2026 5:59 AM $21.49 Fixed Price
+Jun 11, 2026 5:59 AM $16.99 Fixed Price
+Jun 11, 2026 5:59 AM $16.99 Fixed Price
+Jun 11, 2026 5:59 AM $16.99 Fixed Price
+Jun 11, 2026 5:59 AM $16.99 Fixed Price
+Jun 11, 2026 5:59 AM $16.99 Fixed Price
+Jun 8, 2026 2:34 PM $18.08 Fixed Price
+Jun 8, 2026 9:41 AM $14.50 Fixed Price
+Jun 8, 2026 4:05 AM $13.10 Offer
+Jun 7, 2026 7:57 PM $13.78 On Sale
+Jun 7, 2026 7:24 PM $12.50 Fixed Price
+Jun 7, 2026 7:11 PM $14.50 Fixed Price
+Jun 7, 2026 5:51 PM $14.50 Fixed Price
+Jun 7, 2026 5:51 PM $14.50 Fixed Price
+Jun 7, 2026 10:29 AM $13.59 On Sale
+Jun 5, 2026 12:23 AM $20.95 Fixed Price
+Jun 5, 2026 12:23 AM $18.50 Fixed Price
+Jun 5, 2026 12:17 AM $17.50 Fixed Price
+Jun 4, 2026 5:58 PM $14.50 Offer
+Jun 4, 2026 7:57 AM $17.00 Offer
+Jun 3, 2026 6:57 AM $16.50 5 Item Offer
+Jun 3, 2026 6:57 AM $16.50 5 Item Offer
+Jun 3, 2026 6:57 AM $16.50 5 Item Offer
+Jun 3, 2026 6:57 AM $16.50 5 Item Offer
+Jun 3, 2026 6:57 AM $16.50 5 Item Offer
+Jun 2, 2026 3:04 PM $16.70 2 Item Offer
+May 30, 2026 8:05 AM $16.50 Offer
+May 30, 2026 4:42 AM $16.50 Fixed Price
+May 30, 2026 12:51 AM $14.50 Fixed Price
+May 30, 2026 12:51 AM $14.50 Fixed Price
+May 28, 2026 4:51 PM $18.00 Fixed Price
+May 28, 2026 2:57 AM $14.11 Offer
+May 27, 2026 10:46 AM $17.60 Offer
+May 27, 2026 8:58 AM $17.50 Fixed Price
+May 26, 2026 3:58 PM $12.00 Fixed Price
+May 26, 2026 3:58 PM $12.00 Fixed Price
+May 26, 2026 3:53 PM $8.00 Fixed Price
+May 24, 2026 9:57 PM $18.50 Fixed Price
+May 24, 2026 10:52 AM $20.50 Fixed Price
+May 24, 2026 10:51 AM $20.50 Fixed Price
+May 11, 2026 4:33 PM $21.02 On Sale
+May 11, 2026 4:32 PM $20.41 On Sale
+May 11, 2026 6:19 AM $16.60 Offer
+May 11, 2026 3:59 AM $19.25 On Sale
+May 11, 2026 3:58 AM $19.25 On Sale
+May 11, 2026 3:58 AM $18.95 On Sale
+May 10, 2026 3:48 AM $19.49 22 Item Offer
+May 10, 2026 3:48 AM $19.49 22 Item Offer
+May 10, 2026 2:40 AM $22.50 Fixed Price
+May 9, 2026 7:56 AM $18.50 Offer
+May 8, 2026 9:48 PM $6.50 On Sale
+May 8, 2026 8:32 AM EX to NM $22.11 Offer
+May 7, 2026 11:21 PM $20.50 Fixed Price
+May 7, 2026 11:21 PM $18.61 Fixed Price
+May 6, 2026 6:56 PM $18.07 Fixed Price
+May 6, 2026 6:27 PM $18.57 Auction
+May 6, 2026 1:58 PM $29.57 Fixed Price
+May 6, 2026 5:36 AM $18.50 2 Item Offer
+May 6, 2026 5:36 AM $18.50 2 Item Offer
+May 5, 2026 11:21 AM $20.00 Offer
+May 4, 2026 2:04 PM $14.50 Offer
+May 3, 2026 5:48 AM $24.49 Fixed Price
+May 3, 2026 5:11 AM $15.48 On Sale
+May 2, 2026 7:39 PM $27.70 Fixed Price
+Apr 29, 2026 7:20 AM $26.00 Offer
+Apr 25, 2026 2:44 PM $20.50 Fixed Price
+Apr 25, 2026 10:50 AM $15.04 Fixed Price
+Apr 23, 2026 6:03 AM $29.50 Fixed Price
+Apr 22, 2026 9:36 PM $22.76 Auction
+Apr 18, 2026 5:22 AM $37.00 Offer
+Apr 16, 2026 5:16 PM CGC 9 Mint $81.89 Fixed Price
+Apr 16, 2026 8:54 AM $30.00 Fixed Price
+Apr 14, 2026 7:35 AM $26.00 On Sale
+Apr 13, 2026 7:25 AM $24.50 On Sale
+Apr 12, 2026 3:51 PM $27.50 Fixed Price
+Apr 12, 2026 2:03 PM $20.50 Offer
+Apr 12, 2026 12:38 PM $20.50 Offer
+Apr 12, 2026 8:40 AM PSA 9 MINT $94.55 Fixed Price
+Apr 11, 2026 10:52 AM $21.50 Fixed Price
+Apr 10, 2026 5:14 PM $29.99 Fixed Price
+Apr 9, 2026 11:32 AM $25.25 On Sale
+Apr 9, 2026 7:21 AM $52.58 Fixed Price
+Apr 9, 2026 6:28 AM $30.67 On Sale
+Apr 9, 2026 6:27 AM $30.67 On Sale
+Apr 8, 2026 4:17 PM $28.99 Fixed Price
+Apr 8, 2026 4:17 PM $28.99 Fixed Price
+Apr 8, 2026 4:17 PM $28.99 Fixed Price
+Apr 8, 2026 4:17 PM $28.49 Fixed Price
+Apr 8, 2026 4:17 PM $25.50 Fixed Price
+Apr 8, 2026 4:17 PM $25.50 Fixed Price
+Apr 7, 2026 9:45 PM $21.50 Fixed Price
+Apr 7, 2026 8:59 PM $22.50 Fixed Price
+Apr 7, 2026 8:59 PM $21.50 Fixed Price
+Apr 7, 2026 8:59 PM $22.00 Fixed Price
+Apr 7, 2026 8:59 PM $24.30 On Sale
+Apr 7, 2026 8:59 PM $24.49 Fixed Price
+Apr 7, 2026 8:59 PM $24.49 Fixed Price
+Apr 7, 2026 8:59 PM $24.49 Fixed Price
+Apr 7, 2026 8:59 PM $24.49 Fixed Price
+Apr 7, 2026 8:59 PM $22.55 On Sale
+Apr 7, 2026 8:59 PM $22.50 Fixed Price
+Apr 7, 2026 8:59 PM $23.95 Fixed Price
+Apr 7, 2026 8:59 PM $25.50 Fixed Price
+Apr 7, 2026 8:47 AM $22.50 Fixed Price
+Apr 6, 2026 10:28 AM $33.03 Fixed Price
+Apr 5, 2026 9:50 PM $21.20 On Sale
+Apr 5, 2026 8:52 PM $24.98 Fixed Price
+Apr 5, 2026 6:29 PM $21.50 Fixed Price
+Apr 5, 2026 5:47 PM CGC 10 Gem Mint $176.09 Fixed Price
+Apr 5, 2026 5:05 PM $21.20 Fixed Price
+Apr 5, 2026 4:25 PM $21.19 Fixed Price
+Apr 4, 2026 7:33 PM PSA 9 MINT $41.01 Fixed Price
+Apr 4, 2026 7:52 AM $20.33 Fixed Price
+Apr 4, 2026 7:38 AM $20.85 Fixed Price
+Apr 4, 2026 6:22 AM PSA 9 MINT $59.60 On Sale
+Apr 4, 2026 5:19 AM $18.50 Offer
+Apr 4, 2026 3:26 AM PSA 9 MINT $53.00 Fixed Price
+Apr 4, 2026 12:37 AM $20.50 Fixed Price
+Apr 3, 2026 6:58 AM $16.00 3 Item Offer
+Apr 3, 2026 6:58 AM $16.00 3 Item Offer
+Apr 3, 2026 6:58 AM $16.00 3 Item Offer
+Apr 2, 2026 12:34 PM $15.50 Fixed Price
+Apr 2, 2026 3:30 AM $16.50 Offer
+Apr 1, 2026 7:47 AM $20.50 Fixed Price
+Mar 30, 2026 5:44 PM $23.39 3 Item Offer
+Mar 30, 2026 9:43 AM $17.55 Offer
+Mar 29, 2026 7:05 PM $20.22 On Sale
+Mar 28, 2026 3:26 PM $19.95 Fixed Price
+Mar 27, 2026 8:50 PM $19.95 Fixed Price
+Mar 26, 2026 7:02 PM $18.53 Fixed Price
+Mar 26, 2026 11:32 AM $23.40 Offer
+Mar 25, 2026 7:55 PM $18.45 Offer
+Mar 25, 2026 3:41 PM $18.50 Offer
+Mar 22, 2026 10:19 PM $18.08 On Sale
+Mar 22, 2026 8:54 PM $24.58 Fixed Price
+Mar 22, 2026 10:43 AM $18.00 Fixed Price
+Mar 21, 2026 3:07 PM $18.08 On Sale
+Mar 21, 2026 1:49 PM $21.53 Fixed Price
+Mar 21, 2026 1:48 PM $18.35 On Sale
+Mar 19, 2026 7:11 AM $15.50 2 Item Offer
+Mar 19, 2026 7:11 AM $15.50 2 Item Offer
+Mar 19, 2026 7:07 AM EX to NM $20.50 Fixed Price
+Mar 19, 2026 6:26 AM $23.83 Fixed Price
+Mar 19, 2026 6:26 AM $23.83 Fixed Price
+Mar 19, 2026 6:12 AM $17.60 On Sale
+Mar 19, 2026 6:12 AM $17.60 On Sale
+Mar 18, 2026 9:29 PM $15.50 Offer
+Mar 18, 2026 8:05 PM $18.05 Fixed Price
+Mar 18, 2026 7:27 PM $17.00 Auction
+Mar 18, 2026 5:39 PM $17.60 On Sale
+Mar 18, 2026 3:55 PM $13.90 Offer
+Mar 18, 2026 11:58 AM $17.50 Offer
+Mar 16, 2026 8:58 PM $19.50 Fixed Price
+Mar 16, 2026 5:46 PM $23.69 Fixed Price
+Mar 16, 2026 2:21 PM $24.50 Offer
+Mar 16, 2026 8:34 AM $19.25 On Sale
+Mar 16, 2026 8:34 AM $19.25 On Sale
+Mar 15, 2026 8:05 AM $19.63 On Sale
+Mar 15, 2026 8:05 AM $19.63 On Sale
+Mar 13, 2026 7:53 AM $18.25 Offer
+Mar 12, 2026 8:06 PM $18.77 2 Item Offer
+Mar 12, 2026 8:06 PM $18.77 2 Item Offer
+Mar 12, 2026 8:00 PM $21.00 Auction
+Mar 12, 2026 12:08 PM $11.15 On Sale
+Mar 12, 2026 7:14 AM $16.50 Offer
+Mar 12, 2026 5:31 AM $19.20 On Sale
+Mar 12, 2026 5:29 AM $19.20 On Sale
+Mar 11, 2026 3:49 PM EX to NM $21.40 On Sale
+Mar 10, 2026 8:34 PM $26.01 Fixed Price
+Mar 10, 2026 12:24 PM $25.27 Fixed Price
+Mar 10, 2026 11:04 AM $20.75 2 Item Offer
+Mar 10, 2026 11:04 AM $20.75 2 Item Offer
+Mar 10, 2026 10:09 AM $19.50 Fixed Price
+Mar 10, 2026 8:52 AM $15.25 On Sale
+Mar 10, 2026 8:52 AM $15.25 On Sale
+Mar 9, 2026 6:23 AM $15.50 On Sale
+Mar 8, 2026 10:31 PM $21.67 On Sale
+Mar 8, 2026 10:31 PM $21.67 On Sale
+Mar 8, 2026 8:34 PM $20.20 On Sale
+Mar 8, 2026 8:07 PM $20.00 Fixed Price
+Mar 8, 2026 8:06 PM $20.00 Fixed Price
+Mar 7, 2026 10:31 PM EX to NM $13.25 On Sale
+Mar 7, 2026 5:06 PM $22.10 On Sale
+Mar 6, 2026 10:11 PM $26.00 Fixed Price
+Mar 6, 2026 8:51 PM $20.00 On Sale
+Mar 6, 2026 4:36 PM $23.00 Offer
+Mar 6, 2026 3:11 PM $23.00 Offer
+Mar 6, 2026 1:18 PM $25.54 Fixed Price
+Mar 6, 2026 10:52 AM $19.20 Offer
+Mar 5, 2026 7:56 PM $23.50 Fixed Price
+Mar 5, 2026 7:30 PM $20.00 Offer
+Mar 5, 2026 7:24 PM $19.05 Fixed Price
+Mar 5, 2026 6:46 PM $17.25 Offer
+Mar 5, 2026 4:24 PM $17.00 2 Item Offer
+Mar 5, 2026 4:24 PM $17.24 2 Item Offer
+Mar 4, 2026 11:15 PM $22.50 Fixed Price
+Mar 4, 2026 7:32 PM $18.50 On Sale
+Mar 4, 2026 6:16 PM $20.90 On Sale
+Mar 4, 2026 9:23 AM $24.24 Fixed Price
+Mar 3, 2026 3:55 PM $24.14 On Sale
+Mar 3, 2026 8:05 AM $25.65 On Sale
+Mar 2, 2026 10:41 PM $22.89 On Sale
+Mar 1, 2026 9:00 PM $24.50 Fixed Price
+Mar 1, 2026 7:35 PM $20.00 Auction
+Mar 1, 2026 2:21 PM $24.50 Offer
+Feb 28, 2026 11:35 PM $24.50 2 Item Offer
+Feb 28, 2026 11:35 PM $24.50 2 Item Offer
+Feb 28, 2026 5:36 PM $29.25 Fixed Price
+Feb 26, 2026 6:38 AM $29.50 Fixed Price
+Feb 25, 2026 9:50 AM $29.25 Fixed Price
+Feb 25, 2026 9:50 AM $28.25 Fixed Price
+Feb 24, 2026 8:23 PM $20.05 On Sale
+Feb 24, 2026 8:22 PM $18.25 Offer
+Feb 24, 2026 10:23 AM $26.00 2 Item Offer
+Feb 24, 2026 10:23 AM $25.75 2 Item Offer
+Feb 24, 2026 7:01 AM $28.49 Fixed Price
+Feb 23, 2026 9:59 AM $25.25 Fixed Price
+Feb 23, 2026 3:25 AM $35.00 Fixed Price
+Feb 22, 2026 7:31 PM $26.50 On Sale
+Feb 22, 2026 7:31 PM $25.25 Fixed Price
+Feb 22, 2026 12:31 PM $33.00 Fixed Price
+Feb 22, 2026 3:24 AM $22.50 Offer
+Feb 21, 2026 8:27 PM $20.00 Offer
+Feb 21, 2026 7:20 AM EX to NM $31.00 Offer
+Feb 20, 2026 10:09 PM $25.25 Fixed Price
+Feb 20, 2026 10:08 PM $24.55 On Sale
+Feb 20, 2026 10:07 PM $25.25 Fixed Price
+Feb 20, 2026 10:04 PM $24.54 Fixed Price
+Feb 20, 2026 10:04 PM $24.55 On Sale
+Feb 20, 2026 10:03 PM $25.25 Fixed Price
+Feb 20, 2026 7:26 PM $31.00 Fixed Price
+Feb 20, 2026 6:00 AM $28.03 Fixed Price
+Feb 20, 2026 12:35 AM $28.13 Fixed Price
+Feb 19, 2026 3:28 PM $22.25 Offer
+Feb 19, 2026 12:52 PM $15.50 Offer
+Feb 19, 2026 11:53 AM $19.50 Fixed Price
+Feb 19, 2026 11:44 AM $18.25 Fixed Price
+Feb 19, 2026 11:17 AM $21.85 On Sale
+Feb 19, 2026 8:51 AM $18.27 On Sale
+Feb 19, 2026 6:07 AM $23.55 2 Item Offer
+Feb 18, 2026 10:04 PM $20.00 Fixed Price
+Feb 18, 2026 2:53 PM $25.50 Offer
+Feb 15, 2026 7:34 AM $26.50 On Sale
+Feb 14, 2026 6:59 PM $28.75 On Sale
+Feb 14, 2026 6:59 PM $28.75 On Sale
+Feb 14, 2026 6:59 PM $28.75 On Sale
+Feb 14, 2026 6:59 PM $27.74 Fixed Price
+Feb 14, 2026 2:50 PM $26.25 Offer
+Feb 13, 2026 10:15 AM $26.00 Fixed Price
+Feb 11, 2026 7:10 PM $31.00 Fixed Price
+Feb 11, 2026 7:00 PM $23.50 Fixed Price
+Feb 11, 2026 5:38 PM $27.50 Offer
+Feb 11, 2026 6:21 AM $25.24 Offer
+Feb 11, 2026 5:07 AM $25.62 On Sale
+Feb 10, 2026 7:56 PM $29.99 Fixed Price
+Feb 10, 2026 7:36 PM $26.00 Fixed Price
+Feb 10, 2026 4:27 PM $23.40 On Sale
+Feb 10, 2026 4:27 PM $26.25 Offer
+Feb 9, 2026 4:49 AM $25.00 Offer
+Feb 8, 2026 9:15 PM $25.62 On Sale
+Feb 1, 2026 1:51 PM $23.98 Fixed Price
+Feb 1, 2026 1:50 PM $22.00 Offer
+Feb 1, 2026 9:05 AM $18.65 Offer
+Feb 1, 2026 7:16 AM $21.95 Fixed Price
+Feb 1, 2026 6:48 AM EX to NM $11.31 On Sale
+Feb 1, 2026 5:46 AM $19.48 Fixed Price
+Jan 31, 2026 9:54 PM $18.00 Offer
+Jan 31, 2026 9:05 PM $19.94 On Sale
+Jan 31, 2026 8:53 PM $18.00 Offer
+Jan 31, 2026 8:45 PM $19.20 Fixed Price
+Jan 31, 2026 8:45 PM $18.25 Fixed Price
+Jan 31, 2026 8:45 PM $18.25 Fixed Price
+Jan 31, 2026 8:44 PM $17.62 On Sale
+Jan 31, 2026 8:10 PM $17.50 On Sale
+Jan 31, 2026 8:07 PM $16.70 Offer
+Jan 31, 2026 7:45 PM $18.99 On Sale
+Jan 31, 2026 7:08 PM $27.00 Fixed Price
+Jan 31, 2026 3:35 PM $15.25 Offer
+Jan 31, 2026 11:44 AM $21.59 Fixed Price
+Jan 30, 2026 6:27 PM $23.27 Fixed Price
+Jan 30, 2026 6:05 PM $18.50 Offer
+Jan 30, 2026 1:19 PM $16.75 Fixed Price
+Jan 30, 2026 1:19 PM $16.30 Fixed Price
+Jan 30, 2026 1:19 PM $16.30 Fixed Price
+Jan 30, 2026 1:19 PM $16.00 Fixed Price
+Jan 30, 2026 9:44 AM $17.24 Fixed Price
+Jan 30, 2026 7:39 AM $15.95 Fixed Price
+Jan 30, 2026 6:33 AM EX to NM $13.77 Fixed Price
+Jan 30, 2026 4:28 AM $15.20 Offer
+Jan 29, 2026 10:39 PM $12.70 On Sale
+Jan 29, 2026 6:50 PM $13.25 On Sale
+Jan 29, 2026 2:49 PM $12.50 Offer
+Jan 29, 2026 5:42 AM $16.30 Fixed Price
+Jan 29, 2026 3:44 AM $15.00 Offer
+Jan 28, 2026 12:44 PM $14.00 On Sale
+Jan 28, 2026 6:16 AM $13.75 Offer
+Jan 27, 2026 9:09 PM $10.70 Offer
+Jan 27, 2026 12:05 PM EX to NM $10.75 Fixed Price
+Jan 27, 2026 12:05 PM $15.75 Fixed Price
+Jan 27, 2026 11:22 AM $14.65 Offer
+Jan 27, 2026 9:41 AM $11.25 Offer
+Jan 27, 2026 4:11 AM $12.00 Offer
+Jan 27, 2026 2:42 AM $14.75 Fixed Price
+Jan 27, 2026 12:04 AM $14.50 Offer
+Jan 26, 2026 8:26 PM $16.44 Offer
+Jan 26, 2026 12:36 PM $15.10 4 Item Offer
+Jan 26, 2026 6:29 AM $15.72 On Sale
+Jan 25, 2026 5:54 PM $13.50 Offer
+Jan 25, 2026 5:33 PM $15.80 On Sale
+Jan 25, 2026 10:14 AM $13.85 On Sale
+Jan 25, 2026 10:14 AM $13.85 On Sale
+Jan 24, 2026 6:13 PM $13.73 2 Item Offer
+Jan 23, 2026 8:44 PM $16.74 Fixed Price
+Jan 23, 2026 6:21 PM $14.55 Offer
+Jan 23, 2026 9:24 AM $16.50 Fixed Price
+Jan 23, 2026 9:24 AM $16.50 Fixed Price
+Jan 23, 2026 8:29 AM $15.27 10 Item Offer
+Jan 23, 2026 8:29 AM $15.27 10 Item Offer
+Jan 23, 2026 8:09 AM $15.38 Offer
+Jan 23, 2026 5:31 AM $15.80 On Sale
+Jan 23, 2026 5:30 AM $15.80 On Sale
+Jan 23, 2026 5:03 AM $16.50 2 Item Offer
+Jan 23, 2026 5:03 AM $16.50 2 Item Offer
+Jan 22, 2026 11:39 AM $16.87 On Sale
+Jan 22, 2026 10:26 AM $16.50 Offer
+Jan 22, 2026 10:03 AM $13.25 Offer
+Jan 22, 2026 8:23 AM $11.50 Offer
+Jan 22, 2026 6:43 AM $19.25 Fixed Price
+Jan 21, 2026 11:34 PM $15.50 Fixed Price
+Jan 21, 2026 12:53 PM $20.48 Offer
+Jan 18, 2026 5:50 PM $24.38 Fixed Price
+Jan 18, 2026 1:14 PM $20.99 On Sale
+Jan 18, 2026 1:06 PM $23.00 Offer
+Jan 17, 2026 9:04 AM $10.50 Offer
+Jan 17, 2026 8:06 AM $12.25 Offer
+Jan 16, 2026 7:33 PM $10.50 2 Item Offer
+Jan 16, 2026 7:33 PM $10.50 2 Item Offer
+Jan 16, 2026 1:46 PM $13.75 Offer
+Jan 16, 2026 7:19 AM $16.65 On Sale
+Jan 16, 2026 7:07 AM $17.79 Fixed Price
+Jan 16, 2026 6:15 AM $12.75 Offer
+Jan 16, 2026 6:14 AM $16.40 On Sale
+Jan 16, 2026 6:12 AM $15.95 Fixed Price
+Jan 15, 2026 10:15 PM $14.75 On Sale
+Jan 15, 2026 9:45 PM $12.20 On Sale
+Jan 15, 2026 9:33 PM $14.50 Fixed Price
+Jan 15, 2026 9:06 PM $15.75 Offer
+Jan 15, 2026 8:22 PM $12.50 Fixed Price
+Jan 15, 2026 8:22 PM $12.50 Fixed Price
+Jan 15, 2026 8:21 PM $12.50 Fixed Price
+Jan 15, 2026 7:32 AM $20.74 Fixed Price
+Jan 15, 2026 5:40 AM $17.00 Fixed Price
+Jan 15, 2026 5:40 AM $17.00 Fixed Price
+Jan 15, 2026 5:40 AM $17.00 Fixed Price
+Jan 15, 2026 5:40 AM $17.00 Fixed Price
+Jan 15, 2026 5:40 AM $17.00 Fixed Price
+Jan 15, 2026 5:40 AM $17.00 Fixed Price
+Jan 14, 2026 8:43 PM $19.00 Fixed Price
+Jan 14, 2026 5:41 PM $16.30 Offer
+Jan 14, 2026 5:41 PM $17.20 Offer
+Jan 14, 2026 5:38 PM $19.00 Fixed Price
+Jan 14, 2026 4:32 PM $19.00 Fixed Price
+Jan 14, 2026 12:21 PM $34.74 Fixed Price
+Jan 13, 2026 5:04 AM $26.75 Offer
+Jan 12, 2026 8:45 PM $19.94 4 Item Offer
+Jan 10, 2026 9:44 AM $24.99 Fixed Price
+Jan 10, 2026 9:44 AM $23.99 Fixed Price
+Jan 10, 2026 9:44 AM $23.99 Fixed Price
+Jan 10, 2026 9:44 AM $24.24 Fixed Price
+Jan 10, 2026 9:44 AM $24.24 Fixed Price
+Jan 10, 2026 9:43 AM $23.99 Fixed Price
+Jan 10, 2026 9:43 AM $24.24 Fixed Price
+Jan 10, 2026 9:43 AM $24.24 Fixed Price
+Jan 4, 2026 1:29 PM $45.24 Fixed Price
